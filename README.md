@@ -1,2 +1,2 @@
 # Data-Scientist-Coursera
-Used for coursera Data Scientest toolkit class
+Used for coursera Data Scientist toolkit class
